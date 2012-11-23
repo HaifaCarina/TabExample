@@ -1,0 +1,407 @@
+TTabExample
+v7
+r0
+t333887514.140752
+cCheck dependencies
+cProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/Info.plist" TabExample-Info.plist
+cCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/TabExample.app/spongebob.png spongebob.png
+cCpResource build/Debug-iphonesimulator/TabExample.app/patrickstar.png patrickstar.png
+cCpResource build/Debug-iphonesimulator/TabExample.app/bigpatrickstar.png bigpatrickstar.png
+cCpResource build/Debug-iphonesimulator/TabExample.app/bigspongebob.png bigspongebob.png
+cProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch.gch TabExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/FirstViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/SecondViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/ThirdViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample" normal i386
+cGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample"
+cTouch "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D9EE41F0000000000000110
+t1302258719
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.h
+c000000004E2D1B8D00000000000000E3
+t1311579021
+s227
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m
+c000000004E2D241100000000000001AF
+t1311581201
+s431
+i"FirstViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.h
+c000000004E2D1B8300000000000000E5
+t1311579011
+s229
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m
+c000000004E2D243500000000000001B4
+t1311581237
+s436
+i"SecondViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.h
+c000000004E2D17CC00000000000001DA
+t1311578060
+s474
+i<UIKit/UIKit.h>
+i"TabExampleViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m
+c000000004E2D1E980000000000000A59
+t1311579800
+s2649
+i"TabExampleAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.h
+c000000004E2D1CCA000000000000016F
+t1311579338
+s367
+i<UIKit/UIKit.h>
+i"FirstViewController.h"
+i"SecondViewController.h"
+i"ThirdViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m
+c000000004E2D23B90000000000000B8A
+t1311581113
+s2954
+i"TabExampleViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.h
+c000000004E2D1B7A00000000000000E3
+t1311579002
+s227
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m
+c000000004E2D136B00000000000000D9
+t1311576939
+s217
+i"ThirdViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib
+c000000004E2D17610000000000002117
+t1311577953
+s8471
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/TabExample_Prefix.pch
+c000000004E2D176200000000000000BD
+t1311577954
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigpatrickstar.png
+c000000004E290E7B0000000000005267
+t1311313531
+s21095
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigspongebob.png
+c000000004E291048000000000000968C
+t1311313992
+s38540
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app
+t1311581269
+s340
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app.dSYM
+t1311581269
+s102
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/Info.plist
+t1311578106
+s603
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/MainWindow.nib
+t1311578107
+s987
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/PkgInfo
+t1311578106
+s8
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample
+t1311581268
+s24248
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/bigpatrickstar.png
+t1311581211
+s21095
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/bigspongebob.png
+t1311581211
+s38540
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/patrickstar.png
+t1311581060
+s3112
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/spongebob.png
+t1311581060
+s3457
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/FirstViewController.o
+t1311581211
+s38348
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/SecondViewController.o
+t1311581268
+s38368
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExample.LinkFileList
+c000000004E2D1C9700000000000003A1
+t1311579287
+s929
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleAppDelegate.o
+t1311580030
+s51792
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleViewController.o
+t1311581121
+s49108
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/ThirdViewController.o
+t1311579287
+s5212
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/main.o
+t1311578119
+s6328
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m
+c000000004E2D17620000000000000167
+t1311577954
+s359
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/patrickstar.png
+c000000004E2D22FD0000000000000C28
+t1311580925
+s3112
+
+N/Users/macbook/Documents/Tmp/Native Apps/TabExample/spongebob.png
+c000000004E2D23030000000000000D81
+t1311580931
+s3457
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch.gch
+t1311578119
+s15453392
+
+NTabExample-Info.plist
+c000000004E2D1761000000000000038D
+t1311577953
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333887514#333887514#0(0"0(0#1#0"8622270688#0"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/FirstViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333274011.671239
+e333274011.880268
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/FirstViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m333274011#333274011#0(0"0(0#0#81"/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m8596290368#2177"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/FirstViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/SecondViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333274068.245109
+e333274068.576167
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/SecondViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m333274068#333274068#0(0"0(0#0#82"/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m8595964896#2179"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/SecondViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/SecondViewController.o"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333272829.910968
+e333272830.133148
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleAppDelegate.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m333272829#333272830#0(0"0(0#0#83"/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m8609967136#2181"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleAppDelegate.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleAppDelegate.o"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333273921.426925
+e333273921.714503
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m333273921#333273921#0(0"0(0#0#86"/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m8615947648#2187"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/TabExampleViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExampleViewController.o"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/ThirdViewController.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333272087.485804
+e333272087.546402
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/ThirdViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m333272087#333272087#0(0"0(0#0#81"/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m8617649760#2177"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/Classes/ThirdViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/ThirdViewController.o"0#
+
+CCompileC build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333270919.551417
+e333270919.862103
+r1
+xCompileC
+xbuild/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m333270919#333270919#0(0"0(0#0#58"/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m8622212032#2139"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/main.m" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib"
+s333270906.500937
+e333270907.764958
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib333270906#333270907#0(0"0(0#0#66"/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib8616709984#618"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/MainWindow.nib" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TabExample.app/bigpatrickstar.png bigpatrickstar.png
+s333274011.618442
+e333274011.669035
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabExample.app/bigpatrickstar.png
+xbigpatrickstar.png
+lSLF07#2@23"Copy bigpatrickstar.png333274011#333274011#0(0"0(0#0#70"/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigpatrickstar.png8609379808#524"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigpatrickstar.png" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"0#
+
+CCpResource build/Debug-iphonesimulator/TabExample.app/bigspongebob.png bigspongebob.png
+s333274011.619432
+e333274011.669209
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabExample.app/bigspongebob.png
+xbigspongebob.png
+lSLF07#2@21"Copy bigspongebob.png333274011#333274011#0(0"0(0#0#68"/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigspongebob.png8609142976#522"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/macbook/Documents/Tmp/Native Apps/TabExample/bigspongebob.png" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"0#
+
+CCpResource build/Debug-iphonesimulator/TabExample.app/patrickstar.png patrickstar.png
+s333273860.485825
+e333273860.541821
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabExample.app/patrickstar.png
+xpatrickstar.png
+lSLF07#2@20"Copy patrickstar.png333273860#333273860#0(0"0(0#0#67"/Users/macbook/Documents/Tmp/Native Apps/TabExample/patrickstar.png8595316640#521"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/macbook/Documents/Tmp/Native Apps/TabExample/patrickstar.png" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"0#
+
+CCpResource build/Debug-iphonesimulator/TabExample.app/spongebob.png spongebob.png
+s333273860.448220
+e333273860.542073
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabExample.app/spongebob.png
+xspongebob.png
+lSLF07#2@18"Copy spongebob.png333273860#333273860#0(0"0(0#0#65"/Users/macbook/Documents/Tmp/Native Apps/TabExample/spongebob.png8611031776#519"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/macbook/Documents/Tmp/Native Apps/TabExample/spongebob.png" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"0#
+
+CGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample"
+s333274068.993654
+e333274069.066579
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app.dSYM
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TabExample.app.dSYM build/Debug-iphonesimulator/TabExample.app/TabExample333274068#333274069#0(0"0(0#0#105"/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample8596078176#437"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample" -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app.dSYM"0#
+
+CLd "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample" normal i386
+s333274068.576273
+e333274068.993536
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample
+xnormal
+xi386
+lSLF07#2@110"Link /Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample333274068#333274068#0(0"0(0#0#0"8590370624#990"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" -filelist "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/Objects-normal/i386/TabExample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/TabExample"0#
+
+CProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/Info.plist" TabExample-Info.plist
+s333270906.462344
+e333270906.500832
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/Info.plist
+xTabExample-Info.plist
+lSLF07#2@29"Process TabExample-Info.plist333270906#333270906#0(0"0(0#0#73"/Users/macbook/Documents/Tmp/Native Apps/TabExample/TabExample-Info.plist8620105856#533"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabExample-Info.plist -genpkginfo "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app/Info.plist"0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch.gch TabExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333270907.765136
+e333270919.550981
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch.gch
+xTabExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile TabExample_Prefix.pch333270907#333270919#0(0"0(0#0#73"/Users/macbook/Documents/Tmp/Native Apps/TabExample/TabExample_Prefix.pch8625053504#2013"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/TabExample-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/TabExample.build/Debug-iphonesimulator/TabExample.build/DerivedSources" -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/TabExample_Prefix.pch" -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabExample_Prefix-gehffflccdnpbufuxvphnyjhxonj/TabExample_Prefix.pch.gch0#
+
+CTouch "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"
+s333274069.066679
+e333274069.090888
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app
+lSLF07#2@100"Touch /Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app333274069#333274069#0(0"0(0#0#0"8618165920#311"    cd "/Users/macbook/Documents/Tmp/Native Apps/TabExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macbook/Documents/Tmp/Native Apps/TabExample/build/Debug-iphonesimulator/TabExample.app"0#
+
